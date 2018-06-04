@@ -1,1 +1,1 @@
-These are projects that I have applied advanced jQuery concept to help me master this library.
+These are projects that I have applied some of the advanced jQuery concepts to help me master this library.
