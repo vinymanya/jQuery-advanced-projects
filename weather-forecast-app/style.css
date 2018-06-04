@@ -1,0 +1,27 @@
+*{
+	font-family: arial;
+	font-size: 16px;
+}
+
+h2{
+	color: purple;
+}
+
+input[type="text"]{
+	padding: 6px;
+	width:195px;
+	margin-right:10px;
+	text-align: center;
+}
+input[type="submit"]{
+	padding:7px;
+	background-color: #4e4d4a;
+	color: white;
+	font-weight: normal;
+	border:none;
+}
+	input[type="submit"]:hover{
+		opacity: 0.7;
+		box-shadow: 2px 2px 2px black;
+		color: orange;
+	}

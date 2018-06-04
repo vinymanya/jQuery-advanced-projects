@@ -1,0 +1,80 @@
+section{
+	font-family: sans-serif;
+	font-size: 18px;
+}
+
+h2{
+	color:#d34547;
+}
+
+/* Styling the contact form*/
+
+form{
+	width: 55%;
+	text-align: justify-all;
+	display: inline-block;
+}
+
+input{
+	width:50%;
+	/*height: 20px*/;
+	padding: 10px;
+	vertical-align: middle;
+
+}
+
+textarea{
+	width: 435px;
+	height: 148px;
+	text-align: left;
+}
+
+ #addUser{
+	border:none;
+	outline: 0;
+	width:100px;
+	background-color: #21BDA9;
+	color: white;
+	font-size: 18px;
+	font-weight: normal;
+	margin-top: 10px;
+	padding: 10px;
+	box-shadow: 2px 2px 2px black;
+	display: block;
+	margin-bottom: 25px;
+}
+
+/* Styling the card*/
+div#container{
+	width: 100%;
+	text-align: center;
+	display: inline-block;
+}
+
+.cardContainer{
+	clear: left;
+	display: inline-block;
+	vertical-align: top;
+	margin: 5px;
+	padding: 0 16px;
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+
+#descButton{
+	border:none;
+	outline: 0;
+	display: inline-block;
+	padding:8px;
+	background-color: #000;
+	color: white;
+	text-align: center;
+	cursor: pointer;
+	width: 100%;
+	font-size: 18px;
+}
+a{
+	text-decoration: none;
+	font-size: 22px;
+	color: #000;
+}

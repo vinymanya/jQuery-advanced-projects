@@ -1,0 +1,23 @@
+section{
+	font-family: "Time New Romans", verdana, sans-serif;
+	width: 970px;
+	height: 800px;
+	font-size: 17px;
+	margin:auto;
+}
+#houses{
+	width:100%;
+	height: auto;
+}
+img{
+	width:200px;
+	height:200px;
+	margin:15px;
+	display: inline-block;
+}
+#houseInfo{
+	width:600px;
+	height: 400px;
+	border:2px solid black;
+	text-align: center;
+}
